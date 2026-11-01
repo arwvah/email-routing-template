@@ -1,4 +1,5 @@
 {
+	"license": "Apache-2.0",
 	"name": "email-routing-template",
 	"description": "Route incoming email to a verified destination with an Email Routing Worker.",
 	"cloudflare": {

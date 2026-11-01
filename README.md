@@ -74,3 +74,9 @@ npm run deploy
 ```
 
 After deployment, send a message from an address in `ALLOWED_SENDERS` to one of the configured routing addresses.
+
+## License
+
+Licensed under the [Apache License, Version 2.0](LICENSE).
+
+Third-party components retain their respective licenses.
